@@ -1,0 +1,31 @@
+{
+  "name": "react-native-drop-down",
+  "version": "1.0.0",
+  "description": "A react-native dropdown component for both iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drop-down",
+    "dropdown",
+    "modal",
+    "react-native-component",
+    "picker",
+    "select",
+    "option"
+  ],
+  "author": "Neha Yadav",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Y-Neha/react-native-drop-down.git"
+  },
+  "homepage": "https://github.com/Y-Neha/react-native-drop-down.git#readme",
+  "dependencies": {
+    "prop-types": "15.6.1"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.60.0"
+  }
+}
