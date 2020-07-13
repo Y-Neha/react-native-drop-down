@@ -1,6 +1,6 @@
 {
-  "name": "react-native-drop-down",
-  "version": "1.0.0",
+  "name": "native-drop-down",
+  "version": "1.1.0",
   "description": "A react-native dropdown component for both iOS and Android",
   "main": "index.js",
   "scripts": {
