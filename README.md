@@ -1,15 +1,15 @@
-# native-modal-dropdown
+# native-drop-down 
 A react-native dropdown component for both Android and iOS.
 
 ## Installation
 ```sh
-npm i native-modal-dropdown -S
+npm i native-drop-down -S
 ```
 
 ## Usage
 ### Import
 ```javascript
-import ModalDropdown from 'native-modal-dropdown';
+import ModalDropdown from 'native-drop-down';
 ```
 Use as a component:
 ```javascript
